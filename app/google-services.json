@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497506137966",
+    "project_id": "eastbeats",
+    "storage_bucket": "eastbeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497506137966:android:8c8832aa4a5ca3da18f37f",
+        "android_client_info": {
+          "package_name": "bkz.app.eastbeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497506137966-uajfp2umdbig5ce8ja1aq385h5d7v3go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJUvgAcbtUtcYuqG4bcwxBwxcP5n7-_Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497506137966-uajfp2umdbig5ce8ja1aq385h5d7v3go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
